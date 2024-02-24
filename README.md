@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mehmetakyurek
 - ❤️ I love programming, powerlifting, reading about psychology, self-improvement and neurology, gaming
-- 🌱 I’m currently learning React, Nextjs, Postcss, tailwindcss, graphql
+- 🌱 I’m currently learning Rust and Go
 - 📫 How to reach me mehmetakyurek@protonmail.com
   
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetakyurek&layout=compact)
